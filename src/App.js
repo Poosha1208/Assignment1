@@ -46,5 +46,4 @@ const App = () => {
   );
 };
 
-export default App;
-/*className='post-div'*/ 
+export default App; 
